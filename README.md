@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Ashutosh1345
-  Skills- c++,swift,javascript,backend node.js,problem solving,debugging
- I have agood knowledge of App desingh architecture,high level system desingh
+  Skills- c++,sql and databases with knowledge of devops and successfully completed the project CI/CD pipelines .
+  Good knowledge of data analysis with tools like power BI and performed project on it.
 --->
